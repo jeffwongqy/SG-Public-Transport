@@ -1,4 +1,4 @@
-# How has Singapore’s public transport infrastructure expansion influenced commuter ridership growth and modal share across MRT, LRT, and buses?
+# Singapore Public Transport Infrastructure Expansion & Ridership Performance
 
 ## BQ1. How has the average daily public transport ridership across MRT, LRT, and buses evolved year-by-year over the past decade?
 
