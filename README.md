@@ -41,4 +41,7 @@ To answer this, the analysis explores five key dimensions of network performance
 
 ## 5. Infrastructure-to-Demand Impact: Evaluating the correlation between physical rail length expansion and MRT ridership growth over time.
 
+
+## Power BI Dashboard
+
 ## References
