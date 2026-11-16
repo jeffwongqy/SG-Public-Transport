@@ -5,9 +5,11 @@
 
 ## Introduction 
 
-Singapore’s public transport system forms the backbone of daily urban mobility, relying on continuous network expansion to support a growing population. Using official annual transport statistics from data.gov.sg, this dashboard examines the relationship between physical infrastructure growth—such as rail length and operational kilometres—and commuter demand across Mass Rapid Transit (MRT), Light Rail Transit (LRT), and Public Buses. Through five targeted visual analyses, it explores long-term ridership trends, operational capacity differences, modal share distribution, and how closely network expansion translates into increased commuter adoption.
+Singapore’s public transport network serves as the backbone of urban mobility, relying on continuous infrastructure development to meet growing commuter demand. Using official longitudinal data from Public Transport Operation and Ridership (Annual) on data.gov.sg, this dashboard investigates a central question: How has Singapore’s public transport infrastructure expansion influenced commuter ridership growth and modal share across MRT, LRT, and public buses?   
 
-## BQ1. How has the average daily public transport ridership across MRT, LRT, and buses evolved year-by-year over the past decade?
+To answer this, the analysis explores five key dimensions of network performance:
+
+## 1. How has the average daily public transport ridership across MRT, LRT, and buses evolved year-by-year over the past decade?
 
 <img width="1187" height="495" alt="BQ1" src="https://github.com/user-attachments/assets/78082504-c295-4d3d-a4c1-100e71888170" />
 
@@ -15,7 +17,7 @@ Singapore’s public transport system forms the backbone of daily urban mobility
 - In 2024, daily MRT trips grew to 3.41 million, which beats its 2019 peak of 3.38 million. In contrast, daily bus trips reached 3.84 million in 2024, remaining about 6% below their 2019 peak of 4.10 million. For the business, this means operators should focus on expanding train capacity and station retail, as commuters strongly favor rail for post-pandemic travel.
 - Between 2014 and 2024, daily MRT ridership grew by roughly 23% (from 2.76 million to 3.41 million), while bus ridership stayed nearly flat (growing only 2% from 3.75 million to 3.84 million). For the business, this shows that buses are shifting from a primary travel mode to a feeder service, meaning bus routes should be redesigned to connect neighborhoods directly to MRT stations rather than competing with rail lines.
 
-## BQ2. How do the total annual kilometres operated compare between Mass Rapid Transit (MRT) and Light Rail Transit (LRT) systems averaged across the past 10 years (2016–2025)?
+## 2. How do the total annual kilometres operated compare between Mass Rapid Transit (MRT) and Light Rail Transit (LRT) systems averaged across the past 10 years (2016–2025)?
 
 <img width="1189" height="495" alt="BQ2" src="https://github.com/user-attachments/assets/b150e5cc-a290-4f37-b5cb-4fdd5137f998" />
 
@@ -24,7 +26,7 @@ Singapore’s public transport system forms the backbone of daily urban mobility
 - In 2025, MRT distance operated (47.6 million kilometres) was more than six times larger than LRT distance operated (7.7 million kilometres), accounting for roughly 86% of all combined rail kilometres. For the business, this means core financial performance, energy consumption, and service reliability targets are heavily driven by MRT operations rather than LRT feeder lines.
 
 
-3. What is the percentage share of average daily ridership contributed by MRT, LRT, and Public Buses in 2025?
+## 3. What is the percentage share of average daily ridership contributed by MRT, LRT, and Public Buses in 2025?
 
 <img width="844" height="475" alt="BQ3" src="https://github.com/user-attachments/assets/5674e2cc-0cb4-49dc-88a7-c4a2b64962f8" />
 
