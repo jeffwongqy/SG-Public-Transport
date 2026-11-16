@@ -1,5 +1,11 @@
 # Singapore Public Transport Infrastructure Expansion & Ridership Performance
 
+<img width="770" height="480" alt="Shutterstock_600492917" src="https://github.com/user-attachments/assets/76241deb-d729-4ca3-a451-97f0f69dacdd" />
+
+
+## Introduction 
+Singapore’s public transport system forms the backbone of daily urban mobility, relying on continuous network expansion to support a growing population. Using official annual transport statistics from data.gov.sg, this dashboard examines the relationship between physical infrastructure growth—such as rail length and operational kilometres—and commuter demand across Mass Rapid Transit (MRT), Light Rail Transit (LRT), and Public Buses. Through five targeted visual analyses, it explores long-term ridership trends, operational capacity differences, modal share distribution, and how closely network expansion translates into increased commuter adoption.
+
 ## BQ1. How has the average daily public transport ridership across MRT, LRT, and buses evolved year-by-year over the past decade?
 
 <img width="1187" height="495" alt="BQ1" src="https://github.com/user-attachments/assets/78082504-c295-4d3d-a4c1-100e71888170" />
