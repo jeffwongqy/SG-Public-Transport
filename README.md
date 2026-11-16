@@ -41,8 +41,4 @@ To answer this, the analysis explores five key dimensions of network performance
 
 ## 5. Infrastructure-to-Demand Impact: Evaluating the correlation between physical rail length expansion and MRT ridership growth over time.
 
-4. What is the frequency distribution of annual average daily ridership levels for Public Buses across all recorded years?
-
-
-
-5. Is there a positive correlation between Rail Length and Average Daily Ridership - MRT over the recorded years?
+## References
