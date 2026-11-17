@@ -37,9 +37,21 @@ To answer this, the analysis explores five key dimensions of network performance
 
 ## 4. Bus Ridership Distribution: Analyzing the historical frequency and spread of daily public bus ridership levels across all recorded years.
 
+<img width="1056" height="495" alt="BQ4" src="https://github.com/user-attachments/assets/fb4ea132-d012-4fc6-974a-4667b7087baa" />
 
+**Insights:**
+- Out of 31 total recorded years, 16 years (about 52%) saw daily bus ridership fall between 2.78 million and 3.22 million trips, with the single largest cluster of 10 years sitting between 3.00 million and 3.22 million. For the business, this shows that baseline bus demand remains consistently strong at around 3 million daily riders, giving operators a reliable floor for base fleet planning and recurring fare revenue.
+- Daily ridership exceeded 3.66 million trips in only 9 years (about 29%), compared to the 22 years (71%) that stayed below 3.66 million. For the business, this means peak passenger volumes occur only during high-growth periods, so operators should use flexible scheduling and modular bus deployment to manage peak demand without over-investing in permanent fleet capacity.
 
 ## 5. Infrastructure-to-Demand Impact: Evaluating the correlation between physical rail length expansion and MRT ridership growth over time.
+
+<img width="1368" height="495" alt="BQ5" src="https://github.com/user-attachments/assets/e3b9869a-121e-4083-987a-749201460fd1" />
+
+**Insights:**
+- The scatter plot demonstrates a strong positive relationship ($r = 0.917$), where longer rail lengths (scaling up to 272 km) successfully scale average daily MRT ridership to a peak of nearly 3.48 million trips. For the business, this means that strategic capital investments in new line extensions yield predictable, high-volume passenger growth and increased farebox returns.
+- Despite having extended rail networks of 230 to 260 km, certain periods experienced significantly lower ridership ranging between 2.0 and 2.7 million daily trips. For the business, this indicates that infrastructure growth is vulnerable to external macro shocks, requiring adaptive operational planning to sustain revenue during unexpected crises.
+
+
 
 
 ## Power BI Dashboard
