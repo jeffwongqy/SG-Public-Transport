@@ -53,4 +53,5 @@ To answer this, the analysis explores five key dimensions of network performance
 
 ## References
 [1] Singapore Department of Statistics. (2024). Public Transport Operation And Ridership, Annual (2026) [Dataset]. data.gov.sg. Retrieved November 18, 2026 from https://data.gov.sg/datasets/d_ba615ec4cc5d9f5b7800ad82057f36f1/view
+
 [2] Land Transport Authority. (2015). Public Transport Utilisation - Average Public Transport Ridership (2025) [Dataset]. data.gov.sg. Retrieved November 18, 2026 from https://data.gov.sg/datasets/d_75248cf2fbf340de6a746dc91ec9223c/view
